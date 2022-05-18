@@ -2,7 +2,7 @@ writeCode
 
 #### Expense Tracker
 
-Design an expense tracker application using Express & MongoDB where a logged in user can track their income, expenses and savings.
+Design an  expense tracker application using Express & MongoDB where a logged in user can track their income, expenses and savings.
 
 Each user who logs into the application, will have thier own set of income source, expenses category and saving calculated based on income & expenses.
 
